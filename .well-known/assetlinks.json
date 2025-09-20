@@ -8,5 +8,15 @@
         "69:E8:C6:0E:8E:3F:9B:89:C1:6B:D7:C6:35:02:A0:A1:CD:24:4D:F4:8D:61:A9:74:E6:84:3E:86:62:00:59:87"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nerve.myapplication",
+      "sha256_cert_fingerprints": [
+        "69:E8:C6:0E:8E:3F:9B:89:C1:6B:D7:C6:35:02:A0:A1:CD:24:4D:F4:8D:61:A9:74:E6:84:3E:86:62:00:59:87"
+      ]
+    }
   }
 ]
